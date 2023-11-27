@@ -1,4 +1,4 @@
-# 🏀About me
+## 🏀About me
 
 Web Backend Developer/Engineer.
 
@@ -19,8 +19,6 @@ Web Backend Developer/Engineer.
 ## 📊Stats
 
 ![aTaisei Miyaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseimiyaji&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiseimiyaji&hide_progress=true&theme=transparent)
 
 ## ✍️Blogs
 

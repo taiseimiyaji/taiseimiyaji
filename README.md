@@ -12,11 +12,11 @@ My blog is [Lyricrime.com](https://www.lyricrime.com/).
 
 ### Pro
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,nuxt,react,next,vite,git,gitlab,github,docker,mysql,prisma,ruby,rails&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,nuxt,react,next,vite,docker,mysql,prisma,ruby&perline=6)](https://skillicons.dev)
 
 ### Beginner
 
-[![My Skills](https://skillicons.dev/icons?i=astro,tailwind,netlify,planetscale,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,tailwind)](https://skillicons.dev)
 
 ## 📊Stats
 

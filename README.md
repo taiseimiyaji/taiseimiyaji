@@ -9,11 +9,13 @@ My blog is [Lyricrime.com](https://www.lyricrime.com/).
 ### Expert
 
 キャリアの軸としている専門性を持っているスキル
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,)](https://skillicons.dev)
 
 ### Pro
 
 一般的な開発業務において問題なく利用でき、業務で利用したことのあるスキル
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next,docker,ruby&perline=6)](https://skillicons.dev)
 
 ## 📊Stats

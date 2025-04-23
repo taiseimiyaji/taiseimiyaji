@@ -18,6 +18,12 @@ My blog is [Lyricrime.com](https://www.lyricrime.com/).
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next,docker,ruby&perline=6)](https://skillicons.dev)
 
+### Hobby
+
+趣味で触ったことのある技術
+
+[![My Skills](https://skillicons.dev/icons?i=rust,astro&perline=6)](https://skillicons.dev)
+
 ## 📊Stats
 
 ![aTaisei Miyaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseimiyaji&show_icons=true&theme=transparent)
